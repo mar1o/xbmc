@@ -12,13 +12,13 @@
 	</dvd>
 
 	<regions>
-	<region name="Argentina" locale="AR">
+	<region name="Colombia" locale="CO">
   	  	<dateshort>D/M/YYYY</dateshort>
   	  	<datelong>DDD, DD' de 'MMMM' de 'YYYY</datelong>
   	  	<time symbolAM="" symbolPM="">H:mm:ss</time>
   	  	<tempunit>C</tempunit>
 		<speedunit>kmh</speedunit>
-		<timezone>GMT-3</timezone>
+		<timezone>GMT-5</timezone>
 	</region>
 	</regions>
 
